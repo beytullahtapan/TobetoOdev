@@ -1,0 +1,14 @@
+C:\Users\RoDNes\source\repos\TobetoOOP\CleanCode\bin\Debug\net8.0\CleanCode.exe
+C:\Users\RoDNes\source\repos\TobetoOOP\CleanCode\bin\Debug\net8.0\CleanCode.deps.json
+C:\Users\RoDNes\source\repos\TobetoOOP\CleanCode\bin\Debug\net8.0\CleanCode.runtimeconfig.json
+C:\Users\RoDNes\source\repos\TobetoOOP\CleanCode\bin\Debug\net8.0\CleanCode.dll
+C:\Users\RoDNes\source\repos\TobetoOOP\CleanCode\bin\Debug\net8.0\CleanCode.pdb
+C:\Users\RoDNes\source\repos\TobetoOOP\CleanCode\obj\Debug\net8.0\CleanCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RoDNes\source\repos\TobetoOOP\CleanCode\obj\Debug\net8.0\CleanCode.AssemblyInfoInputs.cache
+C:\Users\RoDNes\source\repos\TobetoOOP\CleanCode\obj\Debug\net8.0\CleanCode.AssemblyInfo.cs
+C:\Users\RoDNes\source\repos\TobetoOOP\CleanCode\obj\Debug\net8.0\CleanCode.csproj.CoreCompileInputs.cache
+C:\Users\RoDNes\source\repos\TobetoOOP\CleanCode\obj\Debug\net8.0\CleanCode.dll
+C:\Users\RoDNes\source\repos\TobetoOOP\CleanCode\obj\Debug\net8.0\refint\CleanCode.dll
+C:\Users\RoDNes\source\repos\TobetoOOP\CleanCode\obj\Debug\net8.0\CleanCode.pdb
+C:\Users\RoDNes\source\repos\TobetoOOP\CleanCode\obj\Debug\net8.0\CleanCode.genruntimeconfig.cache
+C:\Users\RoDNes\source\repos\TobetoOOP\CleanCode\obj\Debug\net8.0\ref\CleanCode.dll
